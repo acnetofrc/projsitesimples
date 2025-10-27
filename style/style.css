@@ -61,5 +61,8 @@ nav {
 footer {
     font-family: Arial, sans-serif;
     font-size: 14px;
-    margin-top: 40vh;
+    margin-top: 35vh;
+    border: solid 1px  skyblue  ;
+    border-radius: 20px 30px;
+
 }
